@@ -1,0 +1,17 @@
+# Ignore node modules
+node_modules/
+
+# Ignore Qodo folder
+qodo/
+
+# Ignore the full project zip files
+ireporter App fullstuck development by shadz.zip/
+
+# Ignore uploads folder
+upload/
+
+# Ignore environment files
+.env
+
+hope/
+hope.zip/
